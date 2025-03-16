@@ -1,0 +1,2 @@
+hello [Key.space] world [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l] 
+ [Key.ctrl_l] [Key.ctrl_l]  [Key.ctrl_l]  [Key.ctrl_l] noor
